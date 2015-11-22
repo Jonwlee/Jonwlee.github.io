@@ -1,0 +1,11 @@
+.row {
+  text-align: center;
+}
+
+img.headshot {
+  width: 25rem;
+  border-radius: 60%;
+}
+body{
+	padding-top: 35px;
+}
