@@ -5,8 +5,20 @@
 img.headshot {
   width: 25rem;
   border-radius: 60%;
+
 }
 body{
 	padding-top: 35px;
 	padding-bottom: 35px;
+}
+
+.img-responsive{
+	border-radius: 1%;
+
+   border:1px solid #000000;
+   
+}
+
+i{
+	padding:2rem;
 }
